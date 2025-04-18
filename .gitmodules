@@ -1,0 +1,6 @@
+[submodule "src/t1"]
+	path = src/auxiliares/a1
+	url = https://github.com/Seivier/hello-cmake
+[submodule "src/auxiliares/StencilCL"]
+	path = src/auxiliares/a2/
+	url = https://github.com/Seivier/StencilCL.git
